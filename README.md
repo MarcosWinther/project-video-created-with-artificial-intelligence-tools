@@ -27,10 +27,11 @@
 <div align="center">
    <video controls title="Podcast ScoobyDoobyCode - vídeo">
       <source src="./output/video-sobre-ias-generativas.mp4" type="video/mp4" />
-     <a href="https://github.com/MarcosWinther/project-video-created-with-artificial-intelligence-tools/blob/main/output/video-sobre-ias-generativas.mp4"> 🎬 Clique aqui para assistir!</a>
    </video>
 </div>
 
+ <a href="https://github.com/MarcosWinther/project-video-created-with-artificial-intelligence-tools/blob/main/output/video-sobre-ias-generativas.mp4"> 🎬 Clique aqui para assistir!</a>
+ 
 -------
 
 # 🎥 Vídeo: Um Minuto no Futuro das IAs Generativas 
