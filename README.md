@@ -30,8 +30,10 @@
    </video>
 </div>
 
- <a href="https://github.com/MarcosWinther/project-video-created-with-artificial-intelligence-tools/blob/main/output/video-sobre-ias-generativas.mp4"> 🎬 Clique aqui para assistir!</a>
- 
+ <div align="center">
+    <a href="https://github.com/MarcosWinther/project-video-created-with-artificial-intelligence-tools/blob/main/output/video-sobre-ias-generativas.mp4"> 🎬 Clique aqui para assistir!</a>
+ </div>
+
 -------
 
 # 🎥 Vídeo: Um Minuto no Futuro das IAs Generativas 
